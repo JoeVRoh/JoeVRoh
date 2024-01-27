@@ -1,6 +1,2 @@
 - 👋 Hi, I’m @JoeVRoh
 - 👀 I’m interested in Video Games, Movies, Art and Technology
-- 🌱 I’m currently learning VR Game Development.
-- 💞️ I’m looking to collaborate on projects for more experience!
-- 📫 Reach me at joevroh.com ! :)
-- 
